@@ -7,5 +7,3 @@ examples :
    Consider a logging system where log messages need to be handled based on their severity levels.
 
 
-![Capture.PNG](Capture.PNG)
-![Capture1 (2).PNG](Capture1%20%282%29.PNG)
