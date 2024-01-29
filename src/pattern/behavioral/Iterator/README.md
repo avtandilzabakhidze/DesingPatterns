@@ -6,4 +6,4 @@ examples:
 2. Built-in Java Iterator
    Java provides built-in iterators for its collections (e.g., ArrayList, LinkedList). Here's a simple example using Java's built-in Iterator
 
-   ![Image Description](src/pattern/begavioral/iterator/Capture.PNG)
+   ![Image Description](DesingPatterns/src/pattern/begavioral/Iterator/Capture.PNG)
