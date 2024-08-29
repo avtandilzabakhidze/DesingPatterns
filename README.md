@@ -1,6 +1,6 @@
 # Design Patterns Project
 
-This project is a demonstration of various design patterns implemented in Java. Design patterns are reusable solutions to common problems encountered in software design. By incorporating these patterns into your codebase, you can improve code clarity, maintainability, and scalability.
+This project is a demonstration of various design patterns implemented in Java. Design patterns are reusable solutions to common problems encountered in software design. By incorporating these patterns into your codebase, you can improve code clarity, maintainability and scalability.
 
 ## Implemented Design Patterns
 
